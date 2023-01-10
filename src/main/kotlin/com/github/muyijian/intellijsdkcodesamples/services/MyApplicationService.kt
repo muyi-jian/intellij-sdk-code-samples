@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.muyijian.intellijsdkcodesamples.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.muyijian.intellijsdkcodesamples.MyBundle
 
 class MyApplicationService {
 
